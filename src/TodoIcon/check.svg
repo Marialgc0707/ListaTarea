@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  
+  <!-- Background Circle -->
+  <circle id="bg-circle" cx="256" cy="256" r="256" fill="#3EA343"  />
+  <g >
+    <!-- Checkmark Icon -->
+    <g id="check-icon" >
+      <polygon points="216,368 115,267 156.7,225.3 216,284.6 357.3,143.3 399,185" fill="#D7E3F4" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <clipPath id="cross_svg_clip">
+      <circle cx="256" cy="256" r="256" />
+    </clipPath>
+  </defs>
+  <!-- Background Circle -->
+  <circle id="bg-circle" cx="256" cy="256" r="256" fill="#D81B24" />
+  <g >
+    <!-- Long Shadow 45deg -->
+    <g clip-path="url(#cross_svg_clip)">
+      <polygon points="368.97056274847716,143.02943725152286 868.9705627484772,643.0294372515228 643.0294372515228,868.9705627484772 143.02943725152286,368.97056274847716" fill="#000000" opacity="0.22" />
+      <polygon points="176.97056274847714,143.02943725152286 676.9705627484772,643.0294372515228 868.9705627484772,835.0294372515228 368.97056274847716,335.02943725152284" fill="#000000" opacity="0.22" />
+      <polygon points="335.02943725152284,368.97056274847716 835.0294372515228,868.9705627484772 868.9705627484772,835.0294372515228 368.97056274847716,335.02943725152284" fill="#000000" opacity="0.22" />
+      <!-- Shadow caps -->
+      <circle cx="352" cy="160" r="24" fill="#000000" opacity="0.22" />
+      <circle cx="160" cy="352" r="24" fill="#000000" opacity="0.22" />
+      <circle cx="352" cy="352" r="24" fill="#000000" opacity="0.22" />
+    </g>
+    <!-- Cross Lines -->
+    <g id="cross-icon" >
+      <line x1="160" y1="160" x2="352" y2="352" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" />
+      <line x1="352" y1="160" x2="160" y2="352" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
