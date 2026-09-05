@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ListaTarea/static/css/main.9a43451a.css",
+    "main.js": "/ListaTarea/static/js/main.4194b648.js",
+    "static/media/delete.svg": "/ListaTarea/static/media/delete.29f8ce743505d2fc8ddccbe94fed93fc.svg",
+    "index.html": "/ListaTarea/index.html",
+    "static/media/check.svg": "/ListaTarea/static/media/check.0640f96817782d00e652bb420697567d.svg",
+    "main.9a43451a.css.map": "/ListaTarea/static/css/main.9a43451a.css.map",
+    "main.4194b648.js.map": "/ListaTarea/static/js/main.4194b648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a43451a.css",
+    "static/js/main.4194b648.js"
+  ]
+}
